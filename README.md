@@ -1,12 +1,8 @@
-NetGuard Pro — Documentación de Instalación y Uso para Administradores de Red
-Guía técnica oficial para despliegue empresarial
-📘 Introducción
+Guía Oficial de Instalación y Uso
+📘 Para Administradores, Desarrolladores y Colaboradores
 
-NetGuard Pro es la plataforma avanzada de optimización y seguridad de redes diseñada para entornos empresariales de alta demanda.
-Este documento proporciona las instrucciones esenciales para su instalación, configuración inicial y operación diaria.
-
-🚀 Características Principales
-🔧 Optimización de la Red
+📌 Características Principales
+🔧 Optimización de Red
 
 Monitoreo automatizado del rendimiento.
 
@@ -16,115 +12,101 @@ Análisis en tiempo real de calidad y disponibilidad.
 
 🛡️ Seguridad Mejorada
 
-Gestión integrada de firewall.
+Gestión de firewall integrada.
 
 Detección inteligente de amenazas.
 
-Transmisión de datos cifrada mediante TLS 1.3.
+Transmisión de datos cifrada con TLS 1.3.
 
-📈 Escalabilidad Sin Interrupciones
+📈 Escalabilidad
 
-Soporte nativo para scaling horizontal.
+Soporte para scaling horizontal sin interrupciones.
 
-Integración directa con AWS, Azure y Google Cloud Platform.
+Integración con AWS, Azure y GCP.
 
 Balanceo automático de carga.
 
-🖥️ Interfaz Intuitiva y Flexible
+🖥️ Interfaz Intuitiva
 
-Panel de control moderno y personalizable.
+Panel personalizable según rol.
 
-Vistas dinámicas según rol del administrador.
+Vistas dinámicas y métricas avanzadas.
 
-Integración con API para automatización de flujos.
+API para automatización de procesos.
 
 🖥️ Requisitos del Sistema
-Sistemas Operativos
-
-Windows Server 2016 / 2019
-
-Linux: Ubuntu 20.04+, CentOS 7+
-
-macOS 10.15+
-
-Procesador
-
-Mínimo: Quad-core 2.5 GHz
-
-Recomendado: Octa-core 3.0 GHz
-
-Memoria RAM
-
-Mínimo: 8 GB
-
-Recomendado: 16 GB
-
-Almacenamiento
-
-Mínimo: 500 GB
-
-Recomendado: 1 TB SSD
-
-Red
-
-Mínimo: 1 Gbps
-
-Recomendado: 10 Gbps
-
+Requisito	Mínimo	Recomendado
+SO	Windows Server 2016/2019, Ubuntu 20.04+, CentOS 7+, macOS 10.15+	—
+Procesador	Quad-core 2.5 GHz	Octa-core 3.0 GHz
+RAM	8 GB	16 GB
+Almacenamiento	500 GB	1 TB SSD
+Red	1 Gbps	10 Gbps
 🔌 Integraciones Compatibles
+
 ☁️ Proveedores de Nube
 
-Amazon Web Services (AWS)
-
-Microsoft Azure
-
-Google Cloud Platform (GCP)
+AWS, Azure, GCP
 
 🛠️ Herramientas de Terceros
 
-Slack
+Slack, PagerDuty, Splunk
 
-PagerDuty
-
-Splunk
-
-💼 Modelo de Licenciamiento y Precios
-Esquema de Suscripción (mensual o anual) — Por servidor:
+💼 Licenciamiento y Precios
 Segmento	Alcance	Precio
 Pequeñas Empresas	Hasta 5 servidores	$499/mes
 Empresas Medianas	Hasta 15 servidores	$1,299/mes
 Corporativo / Enterprise	+15 servidores	Precio personalizado
-🔧 Cómo Comenzar con NetGuard Pro
-1. Descarga e Instalación
+🚀 Guía Rápida de Instalación
+1️⃣ Descarga e Instalación
 
-Obtén el paquete instalador desde el portal oficial.
+Descarga desde el portal oficial
+.
 
-Ejecuta el instalador correspondiente a tu SO.
+Ejecuta el instalador para tu sistema operativo.
 
-2. Configuración Inicial
+2️⃣ Configuración Inicial
 
-Configura manualmente o importa parámetros desde archivos .json o .yaml.
+Configura manualmente o importa .json / .yaml.
 
 Define credenciales iniciales del administrador.
 
-3. Activación de Licencia
+3️⃣ Activación de Licencia
 
-Ingresa la clave asignada durante la compra, o
+Ingresa la clave asignada o activa la prueba de 30 días.
 
-Habilita la prueba gratuita por 30 días.
+4️⃣ Integración de Red
 
-4. Integración de Red
-
-Utiliza la detección automática de topologías.
+Usa detección automática de topologías.
 
 Conecta segmentos, gateways y dispositivos clave.
 
-5. Vista General del Panel de Control
+5️⃣ Panel de Control
 
-Personaliza widgets y vistas según el rol del operador.
+Personaliza widgets y vistas por rol.
 
 Activa métricas avanzadas para monitoreo continuo.
 
+📚 Ejemplo de Caso de Uso
+
+Empresa XYZ:
+
+Optimiza ancho de banda según carga de trabajo.
+
+Bloquea intentos de acceso no autorizados en tiempo real.
+
+Genera reportes diarios sobre rendimiento de la red.
+
+✅ Resultado: mayor eficiencia, seguridad y visibilidad completa.
+
+🛠️ Para Desarrolladores y Colaboradores
+
+Estructura del Proyecto: Backend modular con API RESTful, almacenamiento seguro y panel web.
+
+Contribuciones: Siga los estándares de codificación y flujo de Pull Requests.
+
+Pruebas: Ejecute pruebas unitarias e integradas antes de enviar cambios.
+
 📑 Notas Finales
 
-Este README proporciona una ruta clara y directa para que los administradores desplieguen NetGuard Pro de forma estándar y segura. Para configuraciones avanzadas (HA, gateways dedicados, automatización con API, exportación a SIEM), consulte la documentación ampliada o contacte a su representante técnico de NetGuard Solutions.
+Este README es una guía rápida para un despliegue estándar y seguro de NetGuard Pro.
+Para configuraciones avanzadas (HA, gateways dedicados, automatización API, exportación SIEM), consulte la documentación extendida o contacte al representante técnico.
