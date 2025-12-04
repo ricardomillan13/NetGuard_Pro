@@ -1,6 +1,9 @@
 Guía Oficial de Instalación y Uso
 📘 Para Administradores, Desarrolladores y Colaboradores
 
+NetGuard Pro está diseñado para un despliegue rápido y seguro.
+Sigue los pasos a continuación para instalar y configurar la plataforma en tu entorno empresarial.
+
 📌 Características Principales
 🔧 Optimización de Red
 
@@ -35,27 +38,54 @@ Vistas dinámicas y métricas avanzadas.
 API para automatización de procesos.
 
 🖥️ Requisitos del Sistema
-Requisito	Mínimo	Recomendado
-SO	Windows Server 2016/2019, Ubuntu 20.04+, CentOS 7+, macOS 10.15+	—
-Procesador	Quad-core 2.5 GHz	Octa-core 3.0 GHz
-RAM	8 GB	16 GB
-Almacenamiento	500 GB	1 TB SSD
-Red	1 Gbps	10 Gbps
+
+Sistema Operativo:
+
+Windows Server 2016/2019
+
+Ubuntu 20.04+
+
+CentOS 7+
+
+macOS 10.15+
+
+Procesador:
+
+Mínimo: Quad-core 2.5 GHz
+
+Recomendado: Octa-core 3.0 GHz
+
+Memoria RAM:
+
+Mínimo: 8 GB
+
+Recomendado: 16 GB
+
+Almacenamiento:
+
+Mínimo: 500 GB
+
+Recomendado: 1 TB SSD
+
+Red:
+
+Mínimo: 1 Gbps
+
+Recomendado: 10 Gbps
+
 🔌 Integraciones Compatibles
 
-☁️ Proveedores de Nube
-
-AWS, Azure, GCP
-
-🛠️ Herramientas de Terceros
-
-Slack, PagerDuty, Splunk
+Proveedores de Nube: AWS, Azure, GCP
+Herramientas de Terceros: Slack, PagerDuty, Splunk
 
 💼 Licenciamiento y Precios
-Segmento	Alcance	Precio
-Pequeñas Empresas	Hasta 5 servidores	$499/mes
-Empresas Medianas	Hasta 15 servidores	$1,299/mes
-Corporativo / Enterprise	+15 servidores	Precio personalizado
+
+Pequeñas Empresas: Hasta 5 servidores — $499/mes
+
+Empresas Medianas: Hasta 15 servidores — $1,299/mes
+
+Corporativo / Enterprise: Más de 15 servidores — Precio personalizado
+
 🚀 Guía Rápida de Instalación
 1️⃣ Descarga e Instalación
 
